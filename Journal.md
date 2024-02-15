@@ -3,3 +3,5 @@
 
 ## 13/2/2024
 Covered some topics and took notes. Covered topics/sub-topics: Fundamental IT Skills, Computer Hardware Components, Connection Types and Their Function/(NFC, WiFi, Bluetooth, Infrared), OS Independent Troubleshooting, Understanding Basics of Popular Suites/(iCloud, Google Suite, Microsoft Office Suite), Basics of Computer Networking, and sub-topics of Operating systems/(Windows, Linux, MacOS). Also did research about how can i make gpt run in Linux terminal such that it can also execute commands through the terminal.
+## 14/2/2024
+Covered all the other sub-topics of "Operating Systems". As I used each operating system(Win, MacOS, Linux) for a good amount of time I was familiar with most of the content. Started digging more deeply into running gpt through the terminal such that it will also be able to execute commands. Also slowly started writing the code for it.
