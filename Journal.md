@@ -7,3 +7,5 @@ Covered some topics and took notes. Covered topics/sub-topics: Fundamental IT Sk
 Covered all the other sub-topics of "Operating Systems". As I used each operating system(Win, MacOS, Linux) for a good amount of time I was familiar with most of the content. Started digging more deeply into running gpt through the terminal such that it will also be able to execute commands. Also slowly started writing the code for it.
 ## 15/2/2024
 Covered Basics of Subnetting up until network topologies, and common protocols and took many notes. Done with the first version of the gpt terminal project or as I like to call it; TIG(Terminal Intelligence: GPT). I just need to test it as soon as I have some money to spare to buy the API key🥲.
+## 16/2/2024
+Covered everything about the Basics of Subnetting, Networking Knowledge, Virtualization, Troubleshooting Tools, Authentication Methods, etc. To understand these further I watched many videos about them, especially Subnetting. 
