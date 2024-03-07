@@ -9,3 +9,5 @@ Covered all the other sub-topics of "Operating Systems". As I used each operatin
 Covered Basics of Subnetting up until network topologies, and common protocols and took many notes. Done with the first version of the gpt terminal project or as I like to call it; TIG(Terminal Intelligence: GPT). I just need to test it as soon as I have some money to spare to buy the API key🥲.
 ## 16/2/2024
 Covered everything about the Basics of Subnetting, Networking Knowledge, Virtualization, Troubleshooting Tools, Authentication Methods, etc. To understand these further I watched many videos about them, especially Subnetting. 
+## 17/2/2024 - 7/3/2024
+Well... A big pause... Balancing university and my part-time job has been a challenge, but I'm getting the hang of it. I'm diving into mandatory courses for my major(BSc Computer Science), learning C programming and SQL, and getting hands-on with incident response/discovery tools.
